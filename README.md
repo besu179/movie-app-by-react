@@ -1,3 +1,6 @@
+:
+
+---
 
 ````markdown
 # 🎬 Movie App by React
@@ -15,7 +18,7 @@ A simple movie search and display web application built with **React**. It fetch
 
 - **Frontend:** React, HTML5, CSS3, JavaScript
 - **API:** [OMDb API](http://www.omdbapi.com/) or similar (update if using a different API)
-- **Icons & Styling:** (e.g., Tailwind CSS, Bootstrap, or custom CSS)
+- **Styling:** Tailwind CSS, Bootstrap, or custom CSS
 
 ## 📦 Installation
 
@@ -71,6 +74,4 @@ movie-app-by-react/
 This project is open-source and available under the [MIT License](LICENSE).
 
 ```
-
----
 ```
