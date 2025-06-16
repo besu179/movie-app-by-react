@@ -1,5 +1,3 @@
-Based on the GitHub repo link you provided — [https://github.com/besu179/movie-app-by-react](https://github.com/besu179/movie-app-by-react) — and assuming it's a React-based movie app, here is a **customizable `README.md` template** tailored for your project:
-
 ---
 
 ````markdown
@@ -13,10 +11,6 @@ A simple movie search and display web application built with **React**. It fetch
 - 🎞️ View movie posters and details
 - 🌐 Responsive design for all screen sizes
 - ⚛️ Built with modern React (hooks, functional components)
-
-## 📸 Screenshots
-
-> Add screenshots here (optional)
 
 ## 🧰 Tech Stack
 
@@ -72,7 +66,6 @@ movie-app-by-react/
 
 * [React](https://reactjs.org/)
 * [OMDb API](http://www.omdbapi.com/)
-* Icons from [Heroicons](https://heroicons.com/) (if used)
 
 ## 📃 License
 
@@ -81,6 +74,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ```
 
 ---
-
-Would you like me to customize this further with your actual folder structure or add screenshots/instructions for deployment (e.g. Netlify or Vercel)?
 ```
