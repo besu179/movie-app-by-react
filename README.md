@@ -1,4 +1,3 @@
----
 
 ````markdown
 # 🎬 Movie App by React
